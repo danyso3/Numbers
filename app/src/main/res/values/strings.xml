@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Numbers</string>
+    <string name="is_it_a">IS IT A...</string>
+    <string name="quadratic">QUADRATIC</string>
+    <string name="or">OR</string>
+    <string name="check">Check</string>
+</resources>
